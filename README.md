@@ -1,2 +1,3 @@
 # my-jupyter-notes
-jup
+
+jupyter notes
